@@ -1,4 +1,4 @@
-![OCI Logo](../OCI+Full+Icon_vertical_dark.png)
+![OCI Logo](/OCI+Full+Icon_vertical_dark.png)
 
 # 👋 Welcome to OCI's GitHub!
 
@@ -22,3 +22,5 @@ Terms and conditions of [OCI's Governance](https://open-credentialing-initiative
 - [Credential Issuer Conformance Criteria](https://open-credentialing-initiative.github.io/Credential-Issuer-Conformance-Criteria/) 
 - [Credential Schema](https://open-credentialing-initiative.github.io/schemas/specification/v1.0.0/)
 - [Digital Wallet API Specifications](https://open-credentialing-initiative.github.io/api-specifications/latest/index.html)
+## ... and more
+Explore this GitHub to discover all our repos.
