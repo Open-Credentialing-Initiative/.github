@@ -21,7 +21,7 @@ Terms and conditions of [OCI's Governance](https://open-credentialing-initiative
 - [Digital Wallet Conformance Criteria](https://open-credentialing-initiative.github.io/Digital-Wallet-Conformance-Criteria/latest)
 - [Credential Issuer Conformance Criteria](https://open-credentialing-initiative.github.io/Credential-Issuer-Conformance-Criteria/) 
 - [VRS Integration Conformance Criteria](https://open-credentialing-initiative.github.io/VRS-Conformance-Criteria/) 
-- [Credential Schema](https://open-credentialing-initiative.github.io/schemas/specification/v1.0.0/)
+- [Credential Schema](https://open-credentialing-initiative.github.io/schemas/specification/latest/)
 - [Digital Wallet API Specifications](https://open-credentialing-initiative.github.io/api-specifications/latest/index.html)
 ## ... and more
 Explore this GitHub to discover all our repos.
