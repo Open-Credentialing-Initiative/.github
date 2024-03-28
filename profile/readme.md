@@ -8,6 +8,8 @@ Publishing on GitHub allows us to not only share important documents but also be
 
 You can find more information about us on [our website](https://www.oc-i.org/) and in our [Getting Started Guide](https://open-credentialing-initiative.github.io/getting-started).
 
+You can find information about OCI-compliant solution providers at our [Marketplace](https://open-credentialing-initiative.github.io/marketplace/).
+
 ## 🤝 Contributing
 
 We encourage contributions from OCI member and non-member companies and individuals. 
