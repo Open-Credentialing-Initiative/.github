@@ -17,6 +17,9 @@ We encourage contributions from OCI member and non-member companies and individu
 ## 📜 OCI Governance Repo
 Terms and conditions of [OCI's Governance](https://open-credentialing-initiative.github.io/OCI-Governance/)
 
+## 📜 OCI VRS Performance Testing Repo
+[Script and everything else](https://github.com/Open-Credentialing-Initiative/vrs-performance-testing)
+
 ## ⚙️ Repos relating to the OCI Interoperability Profile  
 
 - [Conformance Program](https://open-credentialing-initiative.github.io/Conformance-Program/)
